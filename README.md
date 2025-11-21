@@ -29,7 +29,7 @@ The widget stays attached to your desktop, updates automatically, and requires n
 
 
 
-## Installation
+## Requirements
 
 ### **1. Install Python**
 
@@ -44,17 +44,21 @@ During installation, **check the box**:
 ### **2. Install pip (usually included)**
 
 Verify pip installation:
-    ```cmd
+    
     
     python -m pip --version
 ## If pip is missing:
 
-1. Download get-pip.py from:
-    ```cmd
+1. Download `get-pip.py` from:
+   https://bootstrap.pypa.io/get-pip.py
+
+2. Run this command in the same folder as the downloaded file:
+
+   ```cmd
    python get-pip.py
 
 ### **3 Install the required Python dependency**
-    ```cmd
+   
     python -m pip install requests
 
 
