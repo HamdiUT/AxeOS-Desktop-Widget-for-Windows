@@ -1,7 +1,7 @@
 # Bitaxe Desktop Widget (Windows)
 
 A lightweight and minimalist desktop widget for Windows that displays live statistics from your Bitaxe miner.  
-The widget stays attached to your desktop, updates automatically, and requires no technical skills to use. Widget designed for a single bitaxe or a single nerdqaxe compatible with any miner using AxeOS
+The widget stays attached to your desktop, updates automatically, and requires no technical skills to use. Widget designed for a single bitaxe or a single nerdqaxe compatible with any miner using AxeOS version 2.10.1 and earlier .
 ## Features
 
 - Real-time display of:
